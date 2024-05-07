@@ -5,6 +5,8 @@ After this point im just experimenting stuff so please dont mind the ugly layout
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Champkinz)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Charana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Champkinz)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Champkinz/champkinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
