@@ -1,6 +1,8 @@
 ### Hi there 👋
 I build cool sh*t fast 🚀 | Specializing in AI innovation and process optimization. Passionate about engineering and leveraging AI for business growth.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Champkinz)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Champkinz/champkinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
