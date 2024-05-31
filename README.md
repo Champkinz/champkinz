@@ -1,5 +1,5 @@
 ### Hi there 👋
-I build cool sh*t fast 🚀 | Specializing in AI innovation and process optimization. Passionate about engineering and leveraging AI for business growth.
+I build cool tech fast 🚀 | Specializing in AI innovation and process optimization. Passionate about engineering and leveraging AI for business growth.
 
 After this point im just experimenting stuff so please dont mind the ugly layout.
 
